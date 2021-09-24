@@ -1,4 +1,4 @@
-var card = document.getElementById('input');
+var card = document.getElementById('list');
 
 for(var i = 0; i < pokemons.length; i++) {
 
